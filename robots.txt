@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /upload.html
+Sitemap: https://harleycoops.github.io/wv-archival/sitemap.xml
